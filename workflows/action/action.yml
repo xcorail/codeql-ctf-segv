@@ -1,0 +1,9 @@
+name: 'Check queries'
+description: 'Check that the queries that have been pushed (as part of the lesson) produce the correct results'
+author: 'Sam Lanning <s0@github.com>'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'check-circle'
+  color: 'purple'
