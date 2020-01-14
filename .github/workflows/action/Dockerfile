@@ -1,1 +1,1 @@
-FROM docker.pkg.github.com/githubschool/s0-codeql-ctf-segv/s0-codeql-ctf-segv
+FROM docker.pkg.github.com/githubschool/xcorail-codeql-ctf-segv/xcorail-codeql-ctf-segv
